@@ -6,8 +6,8 @@
   ## Table of Contents
   
   -[Environment setup](#environment-setup)
-    - [Network topology](#network-topology)
-  
+
+  - [Network topology](#network-topology)
   - [MIB browser setup](#mib-setup)
   - [Wireshark setup](#wireshark)
 
