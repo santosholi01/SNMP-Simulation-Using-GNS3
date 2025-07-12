@@ -9,8 +9,8 @@
 
   - [Network topology](#network-topology)
   - [configure IP to SNMP Manager](#configure-ip-to-snmp-manager)
-  - [MIB browser setup](#mib-setup)
-  - [Wireshark setup](#wireshark)
+  - [MIB browser setup](#mib-browser-setup)
+  - [Wireshark setup](#wireshark-setup)
 
 
   ## Environment setup
